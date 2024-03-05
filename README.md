@@ -4,8 +4,8 @@ Hardware and software design files for the AvengerCon 8 electronic badge. The fi
 
 The official name I gave this badge is the "8-8-8 Badge": because this is AC8 and I wanted to incorporate the theme of the number 8. The badge has 8 LEDs (A through H) and 8 push buttons B0 through B7). The challenge is to use the 8 buttons to input 8-digit codes and illuminate the individual LEDs. The codes were distributed to the various booths and villages around the conference. This encouraged attendees to explore the conference and interact with all the various groups/areas in order to collect codes. The first 10 people to solve the badge got a unique conference coin as a small prize.
 
-![Image](3d_render.png)
-![Image](badge_IRL.jpg)
+<img src="3d_render.png" width="500"/>
+<img src="badge_IRL.jpg" width="500"/>
 
 ## Files
 
